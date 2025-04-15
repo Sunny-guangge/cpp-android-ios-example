@@ -436,3 +436,4 @@ end
 - ndk-build：Android 上一代的构建方式，配置文件为Android.mk，目前Android开发默认的构建方式已经变成了cmake；
 - bazel：Google开源的构建系统，TensorFlow和Flutter都是基于bazel构建，使用复杂，适合大型的项目；
 
+自己测试测试石述思
